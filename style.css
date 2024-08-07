@@ -1,0 +1,78 @@
+
+td, .labels {
+    text-align: center;
+    align: center;
+    font-size: 20px;
+}
+body {
+    background-image: url("https://i.pinimg.com/736x/37/75/19/3775199e2e56d99d00557e0d5d2de1c9.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h2 {
+    font-size: 24px;
+}
+fieldset {
+    border-radius: 25px;
+}
+#img1 {
+    padding-left: 75%;
+}
+#img2 {
+    padding-left: 25%;
+}
+.titles {
+    font-size: 50px;
+    text-align: center;
+}
+.presentation {
+    text-align:center;
+    font-size: 24px;
+}
+#submitbutton {
+    font-family: cursive;
+}
+#resetbutton {
+    font-family: cursive;
+}
+#b1 {
+    font-family: cursive;
+}
+option {
+    font-size: 18px;
+}
+input {
+    margin-left: 1%;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: rgb(230, 231, 154);
+}
+button {
+    margin-left: 1%;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: rgb(230, 231, 154);
+}
+#txtarea1 {
+    margin-left: 1%;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: rgb(230, 231, 154);
+    width: 240px;
+}
+.labels {
+    background-color: rgb(230, 231, 154);
+}
+.label1 {
+    margin-left: 1%;
+    font-size: large;
+    font-weight: bold;
+    background-color: rgb(230, 231, 154);
+}
+div {
+    font-size: 50px;
+    text-align: center;
+}
